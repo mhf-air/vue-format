@@ -1,6 +1,6 @@
 {
   "name": "mhf-vue-format",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "format .vue files",
   "main": "index.js",
   "author": "mhf-air",
