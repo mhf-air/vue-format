@@ -1,0 +1,14 @@
+{
+  "name": "mhf-vue-format",
+  "version": "1.0.1",
+  "description": "format .vue files",
+  "main": "index.js",
+  "author": "mhf-air",
+  "license": "MIT",
+  "bin":{
+    "mhf-vue-format":"index.js"
+  },
+  "dependencies": {
+    "js-beautify": "^1.7.5"
+  }
+}
